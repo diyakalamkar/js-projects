@@ -1,0 +1,31 @@
+#d1{
+    background-color: rgb(183, 216, 218);
+    text-align: center;
+    color:rgb(18, 53, 54);
+    font-weight: bold;
+}
+body{
+    background-color: cadetblue;
+    text-align: center;
+}
+button{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: cadetblue;
+    color: white;
+    border-radius: 10%;
+    padding:6px 5px;
+}
+#t1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(18, 53, 54);
+    background-color: rgb(223, 239, 239);
+}
+#d2{
+    margin:25px;
+}
+#d3{
+    width:150px;
+    margin:25px;
+}
